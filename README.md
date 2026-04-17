@@ -1,14 +1,13 @@
-# multilingualization_prompt
 # [multilingualization_prompt](https://github.com/europanite/multilingualization_prompt "multilingualization_prompt")
+
 Prompt for Multilingualization
 
 ---
 
 ## 🚀 Getting Started
 
-Prompt for README.md
+### A Prompt for README Multilingualization
 
-### A Prompt for Multilingualization 
 ```bash
 You are a professional technical translator and GitHub documentation expert.
 
