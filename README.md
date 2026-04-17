@@ -1,0 +1,2 @@
+# multilingualization_snippet
+Snippets for multilingualization
