@@ -1,0 +1,10 @@
+title: "multilingualization_prompt"
+description: "A playground for Python"
+baseurl: "/multilingualization_prompt"
+url: "https://europanite.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+highlighter: rouge
