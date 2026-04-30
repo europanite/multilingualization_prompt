@@ -15,6 +15,7 @@ Task:
 Given an input README.md written in English, generate translated versions in multiple languages and provide them as downloadable files.
 
 Target languages and file names:
+- README.hi.md (Hindi)
 - README.ja.md (Japanese)
 - README.zh-CN.md (Simplified Chinese)
 - README.es.md (Spanish)
@@ -54,6 +55,7 @@ At the top of every file, include this language selector:
 
 <p align="right">
   <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README.hi.md">🇮🇳 हिंदी</a> |
   <a href="./README.ja.md">🇯🇵 日本語</a> |
   <a href="./README.zh-CN.md">🇨🇳 简体中文</a> |
   <a href="./README.es.md">🇪🇸 Español</a> |
