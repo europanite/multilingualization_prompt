@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🇺🇸 English"
-permalink: /
-lang: en
+title: "🇨🇳 中文"
+permalink: /zh-CN/
+lang: zh-CN
 ---
 
 # [multilingualization_prompt](https://github.com/europanite/multilingualization_prompt "multilingualization_prompt")
@@ -19,13 +19,13 @@ lang: en
   <a href="https://europanite.github.io/multilingualization_prompt/fr/">🇫🇷 Français</a>
 </p>
 
-The prompt for Multilingualization
+用于多语言化的提示词
 
 ---
 
-## 🚀 Getting Started
+## 🚀 开始使用
 
-### The Prompt for README Multilingualization
+### 用于 README 多语言化的提示词
 
 ```bash
 You are a professional technical translator and GitHub documentation expert.
@@ -68,7 +68,7 @@ Do not summarize. Do not omit any section. Fully translate the entire README.
 ```
 
 
-### A snippet for README.md
+### README.md 代码片段
 ```bash
 At the top of every file, include this language selector:
 
@@ -87,5 +87,5 @@ At the top of every file, include this language selector:
 
 ---
 
-# License
+# 许可证
 - Apache License 2.0

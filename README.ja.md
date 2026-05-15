@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "🇺🇸 English"
-permalink: /
-lang: en
+title: "🇯🇵 日本語"
+permalink: /ja/
+lang: ja
 ---
 
 # [multilingualization_prompt](https://github.com/europanite/multilingualization_prompt "multilingualization_prompt")
@@ -19,13 +19,13 @@ lang: en
   <a href="https://europanite.github.io/multilingualization_prompt/fr/">🇫🇷 Français</a>
 </p>
 
-The prompt for Multilingualization
+多言語化のためのプロンプト
 
 ---
 
-## 🚀 Getting Started
+## 🚀 はじめに
 
-### The Prompt for README Multilingualization
+### README 多言語化のためのプロンプト
 
 ```bash
 You are a professional technical translator and GitHub documentation expert.
@@ -68,24 +68,24 @@ Do not summarize. Do not omit any section. Fully translate the entire README.
 ```
 
 
-### A snippet for README.md
+### README.md 用スニペット
 ```bash
 At the top of every file, include this language selector:
 
 <p align="right">
-  <a href="https://europanite.github.io/multilingualization_prompt/">🇺🇸 English</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/hi/">🇮🇳 हिंदी</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/ja/">🇯🇵 日本語</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/zh-CN/">🇨🇳 简体中文</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/es/">🇪🇸 Español</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/pt-BR/">🇧🇷 Português (Brasil)</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/ko/">🇰🇷 한국어</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/de/">🇩🇪 Deutsch</a> |
-  <a href="https://europanite.github.io/multilingualization_prompt/fr/">🇫🇷 Français</a>
+  <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README.hi.md">🇮🇳 हिंदी</a> |
+  <a href="./README.ja.md">🇯🇵 日本語</a> |
+  <a href="./README.zh-CN.md">🇨🇳 简体中文</a> |
+  <a href="./README.es.md">🇪🇸 Español</a> |
+  <a href="./README.pt-BR.md">🇧🇷 Português (Brasil)</a> |
+  <a href="./README.ko.md">🇰🇷 한국어</a> |
+  <a href="./README.de.md">🇩🇪 Deutsch</a> |
+  <a href="./README.fr.md">🇫🇷 Français</a>
 </p>
 ```
 
 ---
 
-# License
+# ライセンス
 - Apache License 2.0
