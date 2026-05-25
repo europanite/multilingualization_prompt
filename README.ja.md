@@ -70,8 +70,6 @@ Do not summarize. Do not omit any section. Fully translate the entire README.
 
 ### README.md 用スニペット
 ```bash
-At the top of every file, include this language selector:
-
 <p align="right">
   <a href="./README.md">🇺🇸 English</a> |
   <a href="./README.hi.md">🇮🇳 हिंदी</a> |
