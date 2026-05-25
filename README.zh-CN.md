@@ -70,8 +70,6 @@ Do not summarize. Do not omit any section. Fully translate the entire README.
 
 ### README.md 代码片段
 ```bash
-At the top of every file, include this language selector:
-
 <p align="right">
   <a href="https://europanite.github.io/multilingualization_prompt/">🇺🇸 English</a> |
   <a href="https://europanite.github.io/multilingualization_prompt/hi/">🇮🇳 हिंदी</a> |
